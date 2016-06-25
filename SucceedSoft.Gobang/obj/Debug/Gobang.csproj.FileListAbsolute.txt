@@ -1,0 +1,15 @@
+F:\09.技术资料\SucceedSoft\SucceedSoft.Gobang\SucceedSoft.Gobang\obj\Debug\SucceedSoft.Gobang.exe
+F:\09.技术资料\SucceedSoft\SucceedSoft.Gobang\SucceedSoft.Gobang\obj\Debug\SucceedSoft.Gobang.pdb
+F:\09.技术资料\SucceedSoft\SucceedSoft.Gobang\SucceedSoft.Gobang\bin\Debug\SucceedSoft.Gobang.exe.config
+F:\09.技术资料\SucceedSoft\SucceedSoft.Gobang\SucceedSoft.Gobang\bin\Debug\My.resources
+F:\09.技术资料\SucceedSoft\SucceedSoft.Gobang\SucceedSoft.Gobang\bin\Debug\SucceedSoft.Gobang.exe
+F:\09.技术资料\SucceedSoft\SucceedSoft.Gobang\SucceedSoft.Gobang\bin\Debug\SucceedSoft.Gobang.pdb
+F:\09.技术资料\SucceedSoft\SucceedSoft.Gobang\SucceedSoft.Gobang\bin\Debug\DevComponents.DotNetBar2.dll
+F:\09.技术资料\SucceedSoft\SucceedSoft.Gobang\SucceedSoft.Gobang\bin\Debug\SucceedSoft.Common.dll
+F:\09.技术资料\SucceedSoft\SucceedSoft.Gobang\SucceedSoft.Gobang\bin\Debug\SucceedSoft.Common.Splashs.dll
+F:\09.技术资料\SucceedSoft\SucceedSoft.Gobang\SucceedSoft.Gobang\bin\Debug\SucceedSoft.Common.Splashs.pdb
+F:\09.技术资料\SucceedSoft\SucceedSoft.Gobang\SucceedSoft.Gobang\obj\Debug\ResolveAssemblyReference.cache
+F:\09.技术资料\SucceedSoft\SucceedSoft.Gobang\SucceedSoft.Gobang\obj\Debug\SucceedSoft.Gobang.Gobang.resources
+F:\09.技术资料\SucceedSoft\SucceedSoft.Gobang\SucceedSoft.Gobang\obj\Debug\SucceedSoft.Gobang.Properties.Resources.resources
+F:\09.技术资料\SucceedSoft\SucceedSoft.Gobang\SucceedSoft.Gobang\obj\Debug\GenerateResource.read.1.tlog
+F:\09.技术资料\SucceedSoft\SucceedSoft.Gobang\SucceedSoft.Gobang\obj\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,12 @@
+bin\Debug\SucceedSoft.Common.Splashs.dll
+bin\Debug\SucceedSoft.Common.Splashs.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SucceedSoft.Common.SplashForm.resources
+obj\Debug\SucceedSoft.Common.Splashs.csproj.GenerateResource.Cache
+obj\Debug\SucceedSoft.Common.Splashs.dll
+obj\Debug\SucceedSoft.Common.Splashs.pdb
+bin\Release\SucceedSoft.Common.Splashs.dll
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\SucceedSoft.Common.SplashScreen.resources
+obj\Release\SucceedSoft.Common.Splashs.csproj.GenerateResource.Cache
+obj\Release\SucceedSoft.Common.Splashs.dll

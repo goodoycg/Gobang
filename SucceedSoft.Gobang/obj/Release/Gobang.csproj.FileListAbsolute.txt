@@ -1,0 +1,9 @@
+F:\12.源代码\SucceedSoft\SucceedSoft.Gobang\SucceedSoft.Gobang\obj\Release\SucceedSoft.Gobang.exe
+F:\12.源代码\SucceedSoft\SucceedSoft.Gobang\SucceedSoft.Gobang\obj\Release\SucceedSoft.Gobang.pdb
+F:\12.源代码\SucceedSoft\SucceedSoft.Gobang\RunGobang\My.resources
+F:\12.源代码\SucceedSoft\SucceedSoft.Gobang\RunGobang\SucceedSoft.Gobang.exe
+F:\12.源代码\SucceedSoft\SucceedSoft.Gobang\RunGobang\SucceedSoft.Gobang.pdb
+F:\12.源代码\SucceedSoft\SucceedSoft.Gobang\SucceedSoft.Gobang\obj\Release\ResolveAssemblyReference.cache
+F:\12.源代码\SucceedSoft\SucceedSoft.Gobang\SucceedSoft.Gobang\obj\Release\SucceedSoft.Gobang.Gobang.resources
+F:\12.源代码\SucceedSoft\SucceedSoft.Gobang\SucceedSoft.Gobang\obj\Release\SucceedSoft.Gobang.Properties.Resources.resources
+F:\12.源代码\SucceedSoft\SucceedSoft.Gobang\SucceedSoft.Gobang\obj\Release\Gobang.csproj.GenerateResource.Cache
